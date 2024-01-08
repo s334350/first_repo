@@ -8,3 +8,7 @@ N.Ake
 R.Dias
 J.Stones
 K.Walker
+Ederson
+R.Mahrez
+J.Doku
+J.Alvarez
