@@ -8,3 +8,7 @@ N.Ake
 R.Dias
 J.Stones
 K.Walker
+(K.Phillips)
+(P.Foden)
+(J. Cancelo)
+(E.Laporte)
